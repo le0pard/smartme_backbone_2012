@@ -1,0 +1,3 @@
+<a href="#" class="destroy">Destroy</a>
+<h3>{{name}}</h3>
+<p>{{description}}</p>
